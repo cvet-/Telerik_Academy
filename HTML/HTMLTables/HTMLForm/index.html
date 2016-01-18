@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML Form</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+    <form method="post" action="file.php">
+        <fieldset>
+            <label for="member-name">Member name: </label>
+            <input type="text" name="member-name" id="member-name"/>
+            <strong>*req</strong>
+        </fieldset>
+
+        <fieldset>
+            <label for="email">Email </label>
+            <input type="email" name="email" id="email" />
+            <strong>*req</strong>
+        </fieldset>
+
+        <fieldset>
+            <label for="school">School: </label>
+            <input type="text" name="school" id="school" />
+            <strong>*req</strong>
+        </fieldset>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

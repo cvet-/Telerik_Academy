@@ -1,0 +1,11 @@
+Code::Blocks - An open-source cross-platform C/C++ IDE written in wxWidgets. Its pluggable architecture enables it to be extended easily by the use of external plugins (most of its functionality is provided by plugins). Supported compilers are GNU GCC, MS Visual C++ Free Toolkit 2003, Digital Mars, and Borland C++ 
+
+Eclipse - contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications.
+The Eclipse SDK includes the Eclipse Java development tools (JDT), offering an IDE with a built-in incremental Java compiler and a full model of the Java source files. This allows for advanced refactoring techniques and code analysis.
+
+NetBeans - IDE for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+Xcode -  is an integrated development environment containing a suite of software development tools developed by Apple for developing software for OS X and iOS.
+
+Anjuta - an integrated development environment written for the GNOME project. It has support for the C, C++, Java, JavaScript, Python and Vala programming languages.

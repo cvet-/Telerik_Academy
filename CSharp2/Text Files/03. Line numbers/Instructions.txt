@@ -1,0 +1,4 @@
+﻿To install Visual Studio, you can use the installation media—for example, DVDs—or you can download the installation files from the Microsoft website.
+For information about system requirements for each edition of Visual Studio 2013, platform targeting, and supported upgrade paths, see System requirements and platform compatibility.
+For information about what features are available in each edition of Visual Studio 2013, see Compare Editions.
+To locate your product key, see How to: Locate the Visual Studio Product Key.

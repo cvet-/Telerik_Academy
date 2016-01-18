@@ -1,0 +1,35 @@
+﻿table{
+    
+    background-color: #5f5f5f;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #B4AC9D;
+}
+table th{
+    font-weight: normal;
+    font-size: 20px;
+    text-align: left;
+    color: #BBBBBB;
+}
+table td{
+    padding: 7px;
+}
+table tr td:first-child{
+    color: #ffffff;
+    font-style: italic;
+    padding-right: 20px;
+}
+a{
+    color: #DCCF88;
+    text-decoration: none;
+}
+#userStatus{
+    font-size: 20px;
+    color: #76B77F;
+}
+#answerStatus{
+    font-weight: 600;
+    color: #CE6B43;
+}
+#inactiveSupport {
+    font-weight: 600;
+    color: #DE1720;
