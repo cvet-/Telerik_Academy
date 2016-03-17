@@ -1,0 +1,7 @@
+﻿Problem 18. Grouped by GroupNumber
+
+Create a program that extracts all students grouped by GroupNumber and then prints them to the console.
+Use LINQ.
+Problem 19. Grouped by GroupName extensions
+
+Rewrite the previous using extension methods.
