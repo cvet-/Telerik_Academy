@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChefClass", "ControlFlowConditionalStatementsLoops\ChefClass.csproj", "{4E6C1D15-A698-469C-81B0-F7592C1972AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefractorIf", "RefractorIf\RefractorIf.csproj", "{A88DBD89-27B5-44A3-9561-DDB5959B3C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Loop\Loop.csproj", "{465B881D-89DE-47BA-9C65-EA6233A21B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6C1D15-A698-469C-81B0-F7592C1972AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6C1D15-A698-469C-81B0-F7592C1972AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6C1D15-A698-469C-81B0-F7592C1972AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6C1D15-A698-469C-81B0-F7592C1972AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88DBD89-27B5-44A3-9561-DDB5959B3C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88DBD89-27B5-44A3-9561-DDB5959B3C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88DBD89-27B5-44A3-9561-DDB5959B3C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88DBD89-27B5-44A3-9561-DDB5959B3C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465B881D-89DE-47BA-9C65-EA6233A21B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465B881D-89DE-47BA-9C65-EA6233A21B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465B881D-89DE-47BA-9C65-EA6233A21B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465B881D-89DE-47BA-9C65-EA6233A21B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
